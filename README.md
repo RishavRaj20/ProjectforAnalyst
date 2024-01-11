@@ -23,7 +23,7 @@
    </ul>
 
    ### Resources
-   <ul>
-      <li>[Investopedia - Financial Modeling](https://www.investopedia.com/terms/f/financialmodeling.asp)</li>
-      <li>[Finance Walk - Youtube](https://www.youtube.com/@AvadhutNigudkar/featuredhttps://www.youtube.com/@AvadhutNigudkar/featured)</li>
-   </ul>
+   
+   [Investopedia - Financial Modeling](https://www.investopedia.com/terms/f/financialmodeling.asp)]
+      
+   [Finance Walk - Youtube](https://www.youtube.com/@AvadhutNigudkar/featuredhttps://www.youtube.com/@AvadhutNigudkar/featured)
