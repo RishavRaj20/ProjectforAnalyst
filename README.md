@@ -3,7 +3,7 @@
 
  List of projects along with resources to build in your portfolio in the finance domain.
 
-# 1 | [Financial modelling]
+# 1 | [Financial modelling](https://github.com/RishavRaj20/ProjectforAnalyst/tree/main/two-sigma-financial-modeling)
    ### What Is Financial Modeling?
 
    Financial modeling is the process of creating a summary of a company's expenses and earnings in the form of a spreadsheet that can be used to calculate the 
