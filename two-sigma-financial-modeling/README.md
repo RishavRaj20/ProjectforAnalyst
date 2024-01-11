@@ -10,5 +10,8 @@ For over 15 years, Two Sigma has been at the forefront of applying technology an
 
   This dataset contains anonymized features pertaining to a time-varying value for a financial instrument. Each instrument has an id. Time is represented by the 'timestamp' feature and the variable to predict is 'y'. No further information will be provided on the meaning of the features, the transformations that were applied to them, the timescale, or the type of instruments that are included in the data. Moreover, in accordance with competition rules, participants must not use data other than the data linked from the competition website for the purpose of use in this competition to develop and test their models and submissions.
 
+  ## Resource:
+   [Kaggle](https://www.kaggle.com/competitions/two-sigma-financial-modeling/overview)
+
   ## API Command
       kaggle competitions download -c two-sigma-financial-modeling
