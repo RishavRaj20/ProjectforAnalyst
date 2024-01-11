@@ -21,3 +21,9 @@
      <li>Financial models are used to estimate the valuation of a business or to compare companies to their industry competitors.</li>
      <li>Various models exist that may produce different results. A model is only as good as the inputs and assumptions that go into it.</li>
    </ul>
+
+   ### Resources
+   <ul>
+      <li>[Investopedia - Financial Modeling](https://www.investopedia.com/terms/f/financialmodeling.asp)</li>
+      <li>[Finance Walk - Youtube](https://www.youtube.com/@AvadhutNigudkar/featuredhttps://www.youtube.com/@AvadhutNigudkar/featured)</li>
+   </ul>
