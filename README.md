@@ -1,6 +1,8 @@
 # Project for Data Analyst
  11 Projects a Data Analyst Should Build for the Finance Domain as a Fresher
 
+ [Source](https://www.linkedin.com/pulse/11-projects-data-analyst-should-build-finance-domain-ramchandani/)
+
  List of projects along with resources to build in your portfolio in the finance domain.
 
 # 1 | [Financial modelling](https://github.com/RishavRaj20/ProjectforAnalyst/tree/main/two-sigma-financial-modeling)
