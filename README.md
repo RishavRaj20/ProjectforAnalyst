@@ -30,7 +30,7 @@
       
    [Finance Walk - Youtube](https://www.youtube.com/@AvadhutNigudkar/featuredhttps://www.youtube.com/@AvadhutNigudkar/featured)
 
- # 2 | Fraud detection
+ # 2 | [Fraud detection](https://github.com/RishavRaj20/ProjectforAnalyst/tree/main/IEEE-CIS%20Fraud%20Detection)
 
    ### Develop models to identify and prevent fraud in financial transactions. 
 
