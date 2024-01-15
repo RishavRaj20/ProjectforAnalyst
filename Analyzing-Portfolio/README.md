@@ -120,7 +120,7 @@ I would recommend to add BERKSHIRE HATHAWAY INC to the firm's suite, because the
 
 ## Contributors
 
-Vladislav Glupak - [Linkedin](https://www.linkedin.com/in/vladislav-glupak/)
+Rishav Raj - [Linkedin](https://www.linkedin.com/in/rishaviitb/)
 
 ---
 
