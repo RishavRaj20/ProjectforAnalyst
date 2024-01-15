@@ -56,4 +56,5 @@
    [Fraud Detection in Online Transaction](https://github.com/sharmaroshan/Fraud-Detection-in-Online-Transactions)
 
    
-
+# 3 | [Risk Management](https://github.com/RishavRaj20/ProjectforAnalyst/tree/main/Analyzing-Portfolio)
+  
