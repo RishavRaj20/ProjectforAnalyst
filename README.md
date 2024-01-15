@@ -57,4 +57,22 @@
 
    
 # 3 | [Risk Management](https://github.com/RishavRaj20/ProjectforAnalyst/tree/main/Analyzing-Portfolio)
-  
+
+   Analyze risk in financial portfolios and develop models to manage risk exposure. 
+   
+  This could include evaluating the risk of different assets or portfolios, creating simulations to test the impact of different scenarios, and developing strategies to mitigate risk.
+
+  This analysis contains evaluating of four new investment options for inclusion in the client portfolios. In particular, determining the fund with the most investment potential based on key risk-management metrics: the daily returns, standard deviations, Sharpe ratios, and betas.
+
+  ![image](https://github.com/RishavRaj20/ProjectforAnalyst/assets/81917305/bd6bc753-74b1-41a9-8e3c-c7de7b9358a7)
+
+  Funds for analizyng:
+   <ol>
+     <li>S&P 500</li>
+     <li>BERKSHIRE HATHAWAY INC</li>
+     <li>TIGER GLOBAL MANAGEMENT LLC</li>
+     <li>PAULSON & CO.INC.</li>
+     <li>SOROS FUND MANAGEMENT LLC</li>
+   </ol>
+
+Financial risk analysis is the process of assessing the likelihood of an adverse event such as cash flow insufficiency occurring within the corporate or in a government sector. Risk analysts often work with financial analysts and forecasting professionals to minimise future negative unforeseen effects.
