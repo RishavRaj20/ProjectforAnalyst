@@ -77,7 +77,7 @@
 
 Financial risk analysis is the process of assessing the likelihood of an adverse event such as cash flow insufficiency occurring within the corporate or in a government sector. Risk analysts often work with financial analysts and forecasting professionals to minimise future negative unforeseen effects.
 
-# 4 | [Credit Risk Analysis]()
+# 4 | [Credit Risk Analysis](https://github.com/RishavRaj20/ProjectforAnalyst/tree/main/credit-risk-analysis)
 
 Apply machine learning (Supervised Learning) to solve a real-world challenge: credit card risk that we've built and evaluate using Scikit-Learn.
 
