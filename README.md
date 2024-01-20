@@ -76,3 +76,21 @@
    </ol>
 
 Financial risk analysis is the process of assessing the likelihood of an adverse event such as cash flow insufficiency occurring within the corporate or in a government sector. Risk analysts often work with financial analysts and forecasting professionals to minimise future negative unforeseen effects.
+
+# 4 | [Credit Risk Analysis]()
+
+Apply machine learning (Supervised Learning) to solve a real-world challenge: credit card risk that we've built and evaluate using Scikit-Learn.
+
+![image](https://github.com/RishavRaj20/ProjectforAnalyst/assets/81917305/df6bfaef-8ac3-43df-8817-049df40c659a)
+
+## Overview
+Building and evaluating several machine learning models in the branch of Supervised Learning to predict credit risk. Being able to predict credit risk with machine learning algorithms can help banks and financial institutions predict anomalies, reduce risk cases, monitor portfolios, and provide recommendations on what to do in cases of fraud.
+
+Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. When using data from LendingClub; a peer-to-peer lending services company to apply we to employ different techniques to train and evaluate models with unbalanced classes ...
+
+## Analysis
+### Two evaluation methods: ensemble learning and re-sampling
+Easy Ensemble AdaBoost Classifier performs the best with our steps & dataset; therefore, we would move forward with this estimator for further predictions.
+
+The oversampling recall score (with SMOTE) has the highest score for predicting both low-risk and high risk loan statuses. We would put forward that this is the best model considering the financial cost risk associated with False Negatives.
+
